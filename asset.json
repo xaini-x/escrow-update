@@ -1,0 +1,18 @@
+{
+    "name": "BLOCKCITIES",
+    "description": "A website for making realestate easy",
+    "image": "https://gets.mypinata.cloud/ipfs/QmfB5zLct5SCc9aPKpMpjKXaK2dK65tjrb8LDBPUsW4HHa",
+    "external_link": "https://blockcities.lapits.com/"
+    ,"traits":[
+    
+            {
+            "traits_area": "squarefeet",
+            "value": 10
+        },
+        {
+        "traits_type": "type"
+       
+        }
+    
+    ]
+}
